@@ -1,0 +1,6 @@
+pyaudio
+playsound
+gTTS
+openai
+SpeechRecognition
+uuid
