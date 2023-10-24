@@ -14,7 +14,7 @@ import uuid
 
 
 '''register API key'''
-api_key='isi API key'
+api_key='isi API key dengan mendapatkannya di website OpenAI'
 openai.api_key=api_key
 
 
