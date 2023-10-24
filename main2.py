@@ -14,7 +14,7 @@ import uuid
 
 
 '''register API key'''
-api_key='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'
+api_key='isi API key'
 openai.api_key=api_key
 
 
